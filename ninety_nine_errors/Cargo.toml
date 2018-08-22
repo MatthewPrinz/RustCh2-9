@@ -1,0 +1,6 @@
+[package]
+name = "ninety_nine_errors"
+version = "0.1.0"
+authors = ["mattp"]
+
+[dependencies]

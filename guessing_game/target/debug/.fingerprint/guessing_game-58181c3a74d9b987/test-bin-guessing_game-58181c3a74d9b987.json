@@ -1,0 +1,1 @@
+{"rustc":16627290495782064589,"features":"[]","target":6035654596194783329,"profile":13947565662864535031,"path":1036222786711178230,"deps":[["rand v0.3.22",12621612477306012827]],"local":[{"MtimeBased":[[1529607933,719664500],".fingerprint\\guessing_game-58181c3a74d9b987\\dep-test-bin-guessing_game-58181c3a74d9b987"]}],"rustflags":[],"epoch":"Epoch2015"}

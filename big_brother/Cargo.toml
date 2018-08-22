@@ -1,0 +1,6 @@
+[package]
+name = "big_brother"
+version = "0.1.0"
+authors = ["Matthew Prinz <mattprinz@gmail.com>"]
+
+[dependencies]
